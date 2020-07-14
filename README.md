@@ -4,9 +4,10 @@
 4) Install the AJAX toolkit from the extension manager in the visual studio.
 5) Select the option of Open website from file in menu and select the extracted file from desktop.
 6) Now you can see all the code.
+
 Steps to run the application
 1)Main page is the Default.aspx For whole view open it first.
-Group B Technical Report 2 | P a g e
+
 • Note:- The recommended browser is Google Chrome, for better view and response, use it.
 • Internet connectivity should be enabled to perform various functions of the website. 
 The file storage system will be accessed to store user’s information and maintain persistent user data. 
